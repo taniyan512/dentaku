@@ -1,0 +1,26 @@
+table {
+  width:300px;
+  height:400px;
+  text-align:center;
+  background-color:#CCCCCC;
+  border-radius:10px;
+  border:solid 5px black;
+}
+
+#display{
+  width:95%;
+  border:solid 1px black;
+  text-align:right;
+  font-size:20px;
+}
+
+input {
+  width:60px;
+  height:45px;
+  font-size:30px;
+  border-radius:5px; 
+}
+
+.AC {
+  background-color:#FF8C00; 
+}
